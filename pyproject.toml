@@ -1,0 +1,15 @@
+[project]
+name = "hn_open_favs_in_browser"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "minhtrannhat", email = "minh@minhtrannhat.com"},
+]
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "GPL-v3"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
